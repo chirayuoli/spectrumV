@@ -1,0 +1,41 @@
+body{
+  background: grey;
+}
+
+p{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  margin-bottom: 50px;
+}
+
+.art{
+    margin: auto;
+}
+
+td{
+    border-left:10px solid grey;
+      height: 300px;
+      width: 150px;
+}
+
+#one{
+  background-color: #011627;
+
+}
+
+#two{
+  background-color: #FDFFFC;
+}
+
+#three{
+  background-color: #2EC4B6;
+}
+
+#four{
+  background-color: #E71D36;
+}
+
+#five{
+  background-color: #FF9F1C;
+
+}
