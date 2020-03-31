@@ -1,0 +1,1 @@
+This is a very basic website displaying the artwork style of Spectrum V by Ellsworth Kelly using basic HTML and CSS as part of the practice assignment for the full stack Django web developer bootcamp.
